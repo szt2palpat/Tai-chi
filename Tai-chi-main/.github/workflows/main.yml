@@ -26,7 +26,8 @@
                 <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#" style="width: 162.4px;">Történelem</a>
                     <div class="dropdown-menu"><a class="dropdown-item" href="#Tai">Tai chi</a><a class="dropdown-item" href="#Fam">Családfa</a></div>
                 </li>
-                <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#" style="position: static;display: block;font-size: 13.8px;width: 129.1px;">Rólunk</a>
+                <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#" style="position: # noinspection Annotator
+                    static;display: block;font-size: 13.8px;width: 129.1px;">Rólunk</a>
                     <div class="dropdown-menu"><a class="dropdown-item" href="#">Mester</a><a class="dropdown-item" href="#">Iskola</a></div>
                 </li>
             </ul>
@@ -41,7 +42,8 @@
 <header class="text-center text-white masthead" style="--bs-body-bg: #000000;--bs-danger: #000000;--bs-danger-rgb: 0,0,0;--bs-primary: #000000;--bs-primary-rgb: 0,0,0;--bs-secondary: #000000;--bs-secondary-rgb: 0,0,0;background: repeating-linear-gradient(black 0%, rgb(109,109,109) 53%, white);">
     <div class="masthead-content">
         <div class="container">
-            <h1 class="masthead-heading mb-0"></h1><h2 id="home" class="masthead-subheading mb-0">Wu Stílusú Tai Chi Chuan</h2><a class="btn btn-primary btn-xl rounded-pill mt-5" role="button" href="#Train" style="color: rgb(255,255,255);background: rgb(0,0,0);border-color: rgb(255,255,255);">Eddzések</a>
+            <h1 class="masthead-heading mb-0"></h1><h2 id="home" class="masthead-subheading mb-0">Wu Stílusú Tai Chi Chuan</h2><a class="btn btn-primary btn-xl rounded-pill mt-5" role="button" href="#Train" style="color: # noinspection Annotator
+                rgb(255,255,255);background: rgb(0,0,0);border-color: rgb(255,255,255);">Eddzések</a>
         </div>
     </div>
 </header>
@@ -54,7 +56,8 @@
             <div class="col-lg-6 order-lg-1" style="padding: -1px;padding-bottom: -27px;">
 
                 <div id="work" class="p-5">
-                    <h1 class="display-4" style="color: var(--bs-emphasis-color);font-size: 27px;"><br><strong>A Tai Chi&nbsp;működése</strong></h1>
+                    <h1 class="display-4" style="color: # noinspection Annotator
+                        var(--bs-emphasis-color);font-size: 27px;"><br><strong>A Tai Chi&nbsp;működése</strong></h1>
 
                     <p><br><span style="color: rgb(0, 0, 0);">A Tai Chi Chuan gyakorlói mára két csoportra oszlottak. A többség kizárólag egészségmegőrző jelleggel gyakorolja valamelyik ágát, de egyre többen gyakorolják harci művészetként is. A Tai Chi Chuan-ban egyesítve van a Daojin (belső energia koncentrált felhasználása), a Tuina (mély légzés gyakorlatok), Jingluo (meridián elmélet), valamint a köríves és a spirálisan csavarodó mozdulatok. Mi, akik a Tai Chi-t gyakoroljuk, arra törekszünk, hogy a mozdulataink során a belső energiát (Chí) minél tökéletesebben tudjuk áramoltatni a meridiánokban, illetve lehetőség szerint minél inkább feltöltődjünk energiával. Amikor a testünk már kellő mennyiségű energiát tartalékolt, azt összegyűjthetjük, és egy ütésbe illetve rúgásba koncentráltan beleadva megsokszorozhatjuk annak hatását. A köríves illetve spirálisan csavarodó mozdulatok lehetővé teszik, hogy az esetleges támadást könnyebben kivezessük oldalra, és az ellenfelet az egyensúlyából kibillentve még könnyebben ellökhessük, illetve egyéb módon harcképtelenné tehessük. A technikák tökéletesítéséhez az úgynevezett lökőkéz és tapadóskéz gyakorlatokat használjuk. Ezek specialitása, hogy a gyakorlásuk közben tökéletesen elsajátíthatjuk az úgynevezett bőr reflexet, és a támadó erő elvezetésének a módszerét. Természetesen ennek előfeltétele, hogy a gyakorlatokat teljes fizikai és pszichikai ellazulás mellett végezzük.</span></div>
                     </div>
